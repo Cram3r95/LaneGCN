@@ -5,6 +5,7 @@
 
 Ming Liang, Bin Yang, Rui Hu, Yun Chen, Renjie Liao, Song Feng, Raquel Urtasun
 
+Modified by Carlos Gómez-Huélamo
 
 **Rank 1st** in [Argoverse Motion Forecasting Competition](https://evalai.cloudcv.org/web/challenges/challenge-page/454/leaderboard/1279)
 
